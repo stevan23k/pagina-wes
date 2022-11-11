@@ -1,0 +1,16 @@
+* {
+    background-color: bisque;
+}
+.cabeza {
+    text-align: center;
+}
+#inicio{
+    display: inline-block;
+    padding: 5px;
+    list-style: none;
+}
+#contacto{
+    display: inline-block;
+    padding: 5px;
+    list-style: none;
+}
