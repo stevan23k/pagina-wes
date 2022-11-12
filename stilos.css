@@ -14,3 +14,8 @@
     padding: 5px;
     list-style: none;
 }
+.texto {
+    text-align: left;
+    border: 1px solid black;
+    float: left;
+}
